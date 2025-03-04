@@ -1,0 +1,9 @@
+[submodule "services/restaurant-service"]
+	path = services/restaurant-service
+	url = https://github.com/AmirhosseinZDev/restaurant-service.git
+[submodule "services/order-service"]
+	path = services/order-service
+	url = https://github.com/AmirhosseinZDev/order-service.git
+[submodule "services/courier-service"]
+	path = services/courier-service
+	url = https://github.com/AmirhosseinZDev/courier-service.git
