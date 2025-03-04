@@ -7,3 +7,6 @@
 [submodule "services/courier-service"]
 	path = services/courier-service
 	url = https://github.com/AmirhosseinZDev/courier-service.git
+[submodule "services/user-service"]
+	path = services/user-service
+	url = https://github.com/AmirhosseinZDev/user-service.git
